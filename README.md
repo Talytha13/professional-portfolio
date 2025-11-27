@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Talytha!
+#  Hi, I'm Talytha!
 
-📍 Surrey, BC | CSIS Student at Douglas College  
-🎯 Aspiring Data Analyst & Business Intelligence Professional  
+Surrey, BC | CSIS Student at Douglas College  
+Aspiring Data Analyst & Business Intelligence Professional  
 
 ## Skills
 - Python (Pandas, NumPy, Matplotlib)
