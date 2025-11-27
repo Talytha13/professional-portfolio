@@ -8,6 +8,7 @@ Aspiring Data Analyst & Business Intelligence Professional
 - SQL
 - Power BI & Data Visualization
 - Machine Learning
+- C#
 
 ## Featured Projects
 - Mining Data Visualization (Power BI)
