@@ -66,9 +66,6 @@ The `.pbix` file is available in the **dashboards/** folder.
 
 ---
 
-
----
-
 ## Contact
 
 Created by **Talytha Coimbra Gonçalves**  
